@@ -1,2 +1,2 @@
 Building a Youtube clone using HTML and CSS.
-Also learning to use Git.
+commiting changes to demonstrate how git works.
