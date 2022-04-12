@@ -1,0 +1,21 @@
+.navigation{
+    background-color: white;
+    display: flex;
+    align-items: center;
+}
+
+
+#logo
+{
+    height: 30px;
+    padding: 10px;
+    margin: 10px;
+}
+#search{
+    margin-left: 10%;
+}
+#magglass{
+    margin-left: 10px;
+}
+
+
