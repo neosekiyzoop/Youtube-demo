@@ -8,4 +8,39 @@ button{
 }
 #logo{
     height: 35px ;
-}   
+}
+#search-bar{
+    margin-left: 30vw;
+}
+#glass{
+    background-color: #F2F2F2;
+    margin-left: -4px;
+    margin-top: 3px;
+    height: 39px;
+    border-radius: 20;
+    border: 1px solid grey;
+}
+#microphone{
+    margin-left: 5px;
+    border: 1px solid white;
+    border-radius: 50%;
+    height: 35px;
+    background-color: #F2F2F2;
+}
+#cam{
+    margin-left: 22vw;
+}
+#grid{
+    margin-left: 20px;
+}
+#bell{
+    margin-left: 20px;
+}
+#avatar{
+    border: 1px solid grey;
+    background-color: purple;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
